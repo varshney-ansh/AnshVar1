@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Cloud Computing 
 - 💞️ I’m looking for a partnership 
-- 📫 You can reach me via Email & Instagram
+- 📫 Email : anshvar19@gamil.com
 
 
 <!---
