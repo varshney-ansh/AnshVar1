@@ -1,11 +1,5 @@
-- 👋 Hi, I’m Ansh Varshney 
-- 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Cloud Computing 
-- 💞️ I’m looking for a partnership 
-- 📫 Email : anshvar19@gamil.com
+### Hey! I'm Ansh Varshney. 👋🏼
+![GitHub followers](https://img.shields.io/github/followers/varshney-ansh?label=Follow&style=social)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-AnshVarshney-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varshney-ansh/)](https://www.linkedin.com/in/varshney-ansh/)
 
-
-<!---
-AnshVar1/AnshVar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<em>Full Stack Engineer -  / Cloud Platforms</em>
